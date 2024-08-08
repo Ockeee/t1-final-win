@@ -10,6 +10,6 @@ public class MemberController {
 
     @GetMapping
     public String getMember(){
-        return "Hello youngjin!";
+        return "Hello youngjin1!";
     }
 }
